@@ -56,13 +56,13 @@ Today, as Director of Engineering Solutions at **OneOrigin**, I wear a few hats:
 
 ### 💼 Career Journey
 
-```
-2023 - Present  │  Director, Engineering Solutions    │  OneOrigin × ASU
-2021 - 2023     │  Sr. Engineer, Product Tech Lead    │  OneOrigin (Arizona)
-2018 - 2021     │  Sr. Engineer, Technology Lead       │  OneOrigin (Bangalore)
-2016 - 2018     │  Sr. Full Stack Developer            │  OneOrigin
-2013 - 2016     │  Software Engineer, Java             │  Tech Mahindra
-```
+| Period         | Role                            | Company               |
+| -------------- | ------------------------------- | --------------------- |
+| 2023 – Present | Director, Engineering Solutions | OneOrigin × ASU       |
+| 2021 – 2023    | Sr. Engineer, Product Tech Lead | OneOrigin (Arizona)   |
+| 2018 – 2021    | Sr. Engineer, Technology Lead   | OneOrigin (Bangalore) |
+| 2016 – 2018    | Sr. Full Stack Developer        | OneOrigin             |
+| 2013 – 2016    | Software Engineer, Java         | Tech Mahindra         |
 
 ---
 
