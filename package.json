@@ -1,0 +1,33 @@
+{
+  "name": "imazhar101-profile",
+  "version": "1.0.0",
+  "description": "```typescript interface Engineer {   role: string;   company: string;   location: string;   codingSince: number;   stack: string[];   passions: string[]; }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imazhar101/imazhar101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/imazhar101/imazhar101/issues"
+  },
+  "homepage": "https://github.com/imazhar101/imazhar101#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.1"
+  },
+  "lint-staged": {
+    "*.{js,ts,jsx,tsx,json,md,yml,yaml,css,scss}": [
+      "prettier --write"
+    ]
+  }
+}
