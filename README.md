@@ -42,9 +42,13 @@ const azhar: Engineer = {
 
 I build things that work and teams that last.
 
-For the past 12+ years, I've been designing and shipping software — from Java REST APIs at Tech Mahindra to leading engineering teams building serverless platforms at scale for ASU's Learning Enterprise. Along the way, I've partnered with organizations like **Google, Uber, Starbucks,** and the **Gates Foundation** to deliver products that actually move the needle.
+For the past 12+ years, I've been designing and shipping software at scale — from building Java REST APIs and SOAP web services at Tech Mahindra, to leading full-stack and cloud engineering teams delivering enterprise SaaS platforms at OneOrigin.
 
-Today, as Director of Engineering Solutions at **OneOrigin**, I wear a few hats: architect, team builder, and the person who makes sure we're solving the right problems. My team builds the cloud infrastructure and APIs powering ASU's Universal Learner Courses — enrollment systems, partner portals, payment integrations, and data pipelines serving thousands of learners.
+Today, as **Director of Engineering Solutions at OneOrigin**, I architect and lead engineering across multiple enterprise product lines. My work spans serverless microservices on AWS (Lambda, API Gateway, DynamoDB, Kinesis, DMS), data pipeline engineering (PostgreSQL/RDS, Salesforce integrations, event-driven sync architectures), and platform modernization — migrating legacy systems, consolidating infrastructure, and defining engineering standards across distributed teams in the US and India.
+
+Since mid-2025, I've been leading **AI and agentic system initiatives** — designing MCP (Model Context Protocol) Gateway architectures, integrating LLMs into enterprise workflows, and building developer tooling that drives real workforce efficiency gains. I've published **14 open-source MCP servers** on npm under [@imazhar101](https://www.npmjs.com/~imazhar101) — covering Jira, AWS, PostgreSQL, Salesforce, Bitbucket, Canvas, Figma, Rippling, Stripe, PayPal, and more. I believe AI should be invisible infrastructure — embedded in the tools engineers already use, not bolted on top.
+
+I've shipped products in partnership with **Google/YouTube, Uber, Starbucks, and the Gates Foundation**, and led teams building platforms serving thousands of learners, professionals, and enterprise users. I'm equally at home in a design doc, a code review, a client whiteboard session, or a hiring loop.
 
 - 🏗️ **Director, Engineering Solutions** at [OneOrigin Inc](https://oneorigin.us/)
 - 💻 **12+ years** in software engineering — started in 2013, moved from Bangalore to Arizona in 2021
@@ -52,6 +56,29 @@ Today, as Director of Engineering Solutions at **OneOrigin**, I wear a few hats:
 - 🏆 **Hackathon Winner** — because sometimes the best code is written at 3 AM
 - 🧠 **Technical Mentor** — leveling up teams and individuals
 - 🤝 Partnered with **Google/YouTube, Uber, Starbucks, Gates Foundation**
+
+---
+
+### 📦 Open Source — MCP Servers
+
+I've published 14 MCP (Model Context Protocol) servers on npm, making it easier to connect LLMs and AI agents to the tools engineers actually use.
+
+<p>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-jira-server"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-aws-server"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-postgresql-server"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-salesforce-server"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-bitbucket-server"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-figma-server"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-canvas-server"><img src="https://img.shields.io/badge/Canvas_LMS-E66000?style=for-the-badge&logo=instructure&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-rippling-server"><img src="https://img.shields.io/badge/Rippling-FF6B35?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-stripe-server"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-paypal-server"><img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-notion-server"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-clickup-server"><img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-elasticsearch-server"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/@imazhar101/mcp-puppeteer-server"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" /></a>
+</p>
 
 ---
 
