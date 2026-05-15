@@ -29,6 +29,7 @@ const azhar: Engineer = {
   ],
   passions: [
     'Building scalable serverless architectures',
+    'AI-native architectures — MCP Gateways, LLM integrations, agentic workflows',
     'EdTech that actually works',
     'Mentoring the next generation of developers',
   ],
@@ -110,7 +111,7 @@ Today, as Director of Engineering Solutions at **OneOrigin**, I wear a few hats:
 
 ### 🏗️ What I'm Building
 
-- 🎓 **ASU Learning Enterprise** — Serverless microservices powering Universal Learner Courses, partner portals, and enrollment systems at scale
+- 🎓 **Enterprise EdTech** — Serverless microservices powering learner platforms, partner portals, enrollment systems, and data pipelines at scale
 - 🔧 **[MCP Suite](https://github.com/imazhar101/mcp-suite)** — A comprehensive Model Context Protocol server suite with modular, extensible integrations
 - 🤖 **AI Tooling** — Experimenting with AI agents, MCP servers, and developer productivity tools
 
