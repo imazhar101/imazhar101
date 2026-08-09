@@ -11,28 +11,28 @@ interface Engineer {
 }
 
 const azhar: Engineer = {
-  role: 'Director, Engineering Solutions (AI Enablement)',
-  company: 'OneOrigin Inc',
-  location: 'Arizona, USA 🌵',
+  role: "Director, Engineering Solutions (AI Enablement)",
+  company: "OneOrigin Inc",
+  location: "Arizona, USA 🌵",
   codingSince: 2013,
   stack: [
-    'Next.js',
-    'React',
-    'TypeScript',
-    'Node.js',
-    'NestJS',
-    'AWS Lambda',
-    'Serverless Framework',
-    'Salesforce',
-    'PostgreSQL',
-    'DynamoDB',
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Node.js",
+    "NestJS",
+    "AWS Lambda",
+    "Serverless Framework",
+    "Salesforce",
+    "PostgreSQL",
+    "DynamoDB",
   ],
   passions: [
-    'Building scalable serverless architectures',
-    'AI-native architectures — MCP Gateways, hybrid RAG, agentic workflows',
-    'Developer experience & safe, paved-path deployment',
-    'EdTech that actually works',
-    'Mentoring the next generation of developers',
+    "Building scalable serverless architectures",
+    "AI-native architectures — MCP Gateways, hybrid RAG, agentic workflows",
+    "Developer experience & safe, paved-path deployment",
+    "EdTech that actually works",
+    "Mentoring the next generation of developers",
   ],
 };
 ```
@@ -85,14 +85,14 @@ I've published 14 MCP (Model Context Protocol) servers on npm, making it easier 
 
 ### 💼 Career Journey
 
-| Period            | Role                                             | Company                   |
-| ----------------- | ------------------------------------------------ | ------------------------- |
-| Jul 2025 – Present | Director, Engineering Solutions (AI Enablement)  | OneOrigin                 |
-| Jun 2023 – Jun 2025 | Director, Engineering Solutions                | OneOrigin × ASU           |
-| Mar 2021 – Jun 2023 | Sr. Engineer, Product Technology Lead          | OneOrigin (Scottsdale, AZ)|
-| Dec 2018 – Mar 2021 | Sr. Engineer, Technology Lead                  | OneOrigin (Bengaluru)     |
-| Nov 2016 – Dec 2018 | Sr. Software Engineer, Full Stack              | OneOrigin (Bengaluru)     |
-| Jun 2013 – Nov 2016 | Software Engineer, Java                        | Tech Mahindra             |
+| Period              | Role                                            | Company                    |
+| ------------------- | ----------------------------------------------- | -------------------------- |
+| Jul 2025 – Present  | Director, Engineering Solutions (AI Enablement) | OneOrigin                  |
+| Jun 2023 – Jun 2025 | Director, Engineering Solutions                 | OneOrigin × ASU            |
+| Mar 2021 – Jun 2023 | Sr. Engineer, Product Technology Lead           | OneOrigin (Scottsdale, AZ) |
+| Dec 2018 – Mar 2021 | Sr. Engineer, Technology Lead                   | OneOrigin (Bengaluru)      |
+| Nov 2016 – Dec 2018 | Sr. Software Engineer, Full Stack               | OneOrigin (Bengaluru)      |
+| Jun 2013 – Nov 2016 | Software Engineer, Java                         | Tech Mahindra              |
 
 ---
 
@@ -151,7 +151,7 @@ I've published 14 MCP (Model Context Protocol) servers on npm, making it easier 
 
 - ⚙️ Agentic coding embedded into the everyday dev loop (Claude, GPT) — code review, delivery, reporting
 - 🚦 Safe, paved-path deployment — staged rollouts, health checks, developer experience
-- 🔎 Retrieval that respects tokens — hybrid BM25 + dense (bge-m3) for recall *and* precision
+- 🔎 Retrieval that respects tokens — hybrid BM25 + dense (bge-m3) for recall _and_ precision
 - 🔌 Making AI invisible infrastructure via MCP — one auth, many tools
 
 ---
