@@ -1,5 +1,9 @@
 ### Azharuddin Sirajuddin
 
+<p>
+  <a href="https://imazhar101.dev"><img src="https://img.shields.io/badge/imazhar101.dev-0a0e14?style=for-the-badge&logo=astro&logoColor=3fb950" alt="imazhar101.dev" /></a>
+</p>
+
 ```typescript
 interface Engineer {
   role: string;
@@ -173,6 +177,7 @@ I've published 14 MCP (Model Context Protocol) servers on npm, making it easier 
 ### 📫 Let's Connect
 
 <p>
+  <a href="https://imazhar101.dev"><img src="https://img.shields.io/badge/Website-0a0e14?style=for-the-badge&logo=astro&logoColor=3fb950" /></a>
   <a href="https://linkedin.com/in/imazhar101"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/imazhar101"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/imazhar101"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
